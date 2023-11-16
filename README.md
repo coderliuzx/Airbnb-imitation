@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# 仿Airbnb
+这是一款全世界房源预订平台
+
+
+
+
+
+
+# 其它 
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
